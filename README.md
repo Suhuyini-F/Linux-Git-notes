@@ -17,3 +17,17 @@ cd /opt - third party software goes there
 
 cd /root - home folder for the super user acc kept separate for security reasons
 
+l- root of filesystem
+
+pwd - print working directory
+
+ls -l give more detail than ls
+
+ls -a - shows the hidden files
+
+ls -lh -human readable
+
+cd - change directory 
+
+cd.. - back one in file path
+
