@@ -31,3 +31,41 @@ cd - change directory
 
 cd.. - back one in file path
 
+~ means home
+
+just cd takes you home
+
+cd ../.. takes you back two spaces
+
+mkdir - make directory - to do multiple put a space in between
+
+mkdir - p - make file within file 
+
+touch - create a file put format with a .
+
+cp - copy file
+
+cp - .. puts in main files
+
+mv - command to move files
+    used for renaming
+
+rm - remove file or folder
+rmdir - remove folder
+rm - r recursive - will delete the files in it aswell
+
+bin - stores all the commands
+
+vim - to open up the file and enter words in to
+
+cat - shows what is in the file
+
+esc followed by iq - to exit file
+
+var - where files frequently change
+
+head - shows the first 10 lines in a file
+
+tail - shows the last few lines in a file
+      -f - follow - shows new lines when they are added
+      - n with the number shows those exact lines
